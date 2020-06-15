@@ -1,0 +1,17 @@
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.exe
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.csprojAssemblyReference.cache
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.AssemblyInfoInputs.cache
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.AssemblyInfo.cs
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.deps.json
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.runtimeconfig.json
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.runtimeconfig.dev.json
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.dll
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Test2class.pdb
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.csproj.CopyComplete
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.dll
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.pdb
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.genruntimeconfig.cache
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Jorge\Documentos\CursoC\SeleniumTests\Test2class\obj\Debug\netcoreapp3.1\Test2class.csproj.CoreCompileInputs.cache
