@@ -1,0 +1,13 @@
+using System;
+
+namespace Test2class
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello Word");
+	    Console.ReadLine();
+        }
+    }
+}
